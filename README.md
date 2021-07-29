@@ -15,7 +15,7 @@ const Bio = () => {
 ----
 
 <p align="center">
-	<a href="https://stevedsimkins.dev" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/domain.png"/></a>
+	<a href="https://stevedsimkins.dev" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/webpage.png"/></a>
 	<a href="https://twitter.com/stevedsimkins" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
 	<a href="https://instagram.com/stevedylanphoto" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
