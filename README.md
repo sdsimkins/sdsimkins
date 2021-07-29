@@ -1,4 +1,4 @@
-![Cover](./cover.jpg)
+![Cover](./img/cover.jpg)
 
 <h1 align="center"> Steve Simkins </h1>
 
@@ -17,9 +17,9 @@ const Bio = () => {
 ----
 
 <p align="center">
-	<a href="https://stevedsimkins.dev" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/24/000000/share-2.png"/></a>
-	<a href="https://twitter.com/stevedsimkins" target="blank"><img align="center" src="https://img.icons8.com/fluent-systems-regular/48/000000/twitter.png"/></a> 
-	<a href="https://instagram.com/stevedylanphoto" target="blank"><img align="center" src="https://img.icons8.com/fluent-systems-regular/48/000000/instagram.png"/></a>
-	<a href="https://facebook.com/sdsimkins" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/24/000000/facebook-circled--v1.png"/></a>
+	<a href="https://stevedsimkins.dev" target="blank"><img align="center" src="./img/globe.png"/></a>
+	<a href="https://twitter.com/stevedsimkins" target="blank"><img align="center" src="./img/twitter.png"/></a> 
+	<a href="https://instagram.com/stevedylanphoto" target="blank"><img align="center" src="./img/instagram.png/"/></a>
+	<a href="https://facebook.com/sdsimkins" target="blank"><img align="center" src="./img/facebook.png/"/></a>
 </p>
 
