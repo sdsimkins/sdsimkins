@@ -1,6 +1,6 @@
-<h1 align="center"> Steve Simkins </h1>
-
 ![Cover](./cover.jpg)
+
+<h1 align="center"> Steve Simkins </h1>
 
 ```javascript
 import React from 'react'; 
