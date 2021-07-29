@@ -1,5 +1,7 @@
 <h1 align="center"> Steve Simkins </h1>
 
+![Cover](./cover.jpg)
+
 ```javascript
 import React from 'react'; 
 
@@ -15,9 +17,9 @@ const Bio = () => {
 ----
 
 <p align="center">
-	<a href="https://stevedsimkins.dev" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/webpage.png"/></a>
-	<a href="https://twitter.com/stevedsimkins" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
-	<a href="https://instagram.com/stevedylanphoto" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+	<a href="https://stevedsimkins.dev" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/24/000000/share-2.png"/></a>
+	<a href="https://twitter.com/stevedsimkins" target="blank"><img align="center" src="https://img.icons8.com/fluent-systems-regular/48/000000/twitter.png"/></a> 
+	<a href="https://instagram.com/stevedylanphoto" target="blank"><img align="center" src="https://img.icons8.com/fluent-systems-regular/48/000000/instagram.png"/></a>
+	<a href="https://facebook.com/sdsimkins" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/24/000000/facebook-circled--v1.png"/></a>
 </p>
 
-![Cover](https://raw.githubusercontent.com/stevedsimkins/stevedylanphoto2/main/img-gowest/img-gowest-07.jpg)
