@@ -1,16 +1,18 @@
-![Cover](./img/cover.jpg)
-
 <h1 align="center"> Steve Simkins </h1>
+
+![Cover](./img/cover.jpg)
 
 ```javascript
 import React from 'react'; 
 
 const Bio = () => {
 	return (
-		"- ⚡ Quick bio:":                    "Photographer turned React Developer, coffee addict, 
-						        keyboard lover, husband and father, 4 cats",
-		"- 🔭 I’m currently working on":      "Dev Clock project using React",
-		"- 📫 How to reach me:":              "https://stevedsimkins,dev",
+    <div class="biolist">
+      <ul>
+        <li> "⚡Quick bio: Photographer turned React Developer, coffee addict, keyboard lover, husband and father, 4 cats" </li>
+        <li> "🔭 I’m currently working on: "Dev Clock project using React"</li>
+		    <li> "📫 How to reach me: https://stevedsimkins,dev"</li>
+    </div>
 	)
 };
 ```
