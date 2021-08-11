@@ -13,6 +13,7 @@ const Bio = () => {
 		       keyboard lover, husband and father, 4 cats</li>
 		<li>🔭 I’m currently working on: DevTimer, a film photography web app using React</li>
 		<li>📫 How to reach me: <a href="https://stevedsimkins.dev">My Website!</a></li>
+	      </ul>
 	    </div>
 	)
 };
