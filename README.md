@@ -31,5 +31,5 @@ export default Bio;
 <a href="https://stevedsimkins.dev" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Safari&logoColor=white"/></a>
 <a href="https://hashnode.com/@stevedsimkins" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 <a href="https://www.twitter.com/stevedsimkins" target="_blank"><img src="https://img.shields.io/badge/@stevedsimkins-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-<a href="https://instagram.com/stevedsimkins.dev" target="_blank"><img src="https://img.shields.io/badge/@stevedylanphoto-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/stevedsimkins.dev" target="_blank"><img src="https://img.shields.io/badge/@stevedsimkins.dev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/sdsimkins" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
