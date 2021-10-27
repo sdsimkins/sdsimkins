@@ -11,7 +11,7 @@ const Bio = () => {
 	      <ul>
 		<li>⚡️ Quick bio: Photographer turned front-end web developer, coffee addict, 
 		       keyboard lover, husband and father, 4 cats</li>
-		<li>🔭 I’m currently working on: epic-nft, a Solidity/React dApp that lets users mint their own NFT!</li>
+		<li>🔭 I’m currently working on: Deep diving into Web3 projects as well as personal websites for friends!</li>
 		<li>📫 How to reach me: <a href="https://stevedsimkins.dev">My Website!</a></li>
 	      </ul>
 	    </div>
