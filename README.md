@@ -9,9 +9,8 @@ const Bio = () => {
 	return (
 	    <div class="biolist">
 	      <ul>
-		<li>⚡️ Quick bio: Photographer turned front-end web developer, coffee addict, 
-		       keyboard lover, husband and father, 4 cats</li>
-		<li>🔭 I’m currently working on: Deep diving into Web3 projects as well as personal websites for friends!</li>
+		<li>⚡️ Quick bio: Web3 developer diving into DeFi and dApps! Coffee, crypto, VIM enthusiest, husband, father, somehow ended up with 4 cats.</li>
+		<li>🔭 I’m currently working on: Web3 projects as well as personal websites for friends!</li>
 		<li>📫 How to reach me: <a href="https://stevedsimkins.dev">My Website!</a></li>
 	      </ul>
 	    </div>
