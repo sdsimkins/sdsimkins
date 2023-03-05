@@ -1,7 +1,7 @@
 Hi 👋 My name is Steve
 ======================
 
-Head of Community at Pinata | Weekend Web3 Dev
+Head of Community at Pinata | Web3 Dev
 ----------------------------------------------
 
 I've been all over the place professionally, but have recently found my calling in Web3. I'm currently the head community for Pinata and I love helping creators and developers engage with the Web3 space. Sometimes I like to hack and code solutions to help!
