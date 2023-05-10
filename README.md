@@ -1,5 +1,3 @@
-```
-Even while I dreamed I prayed 
-that what I saw was only fear 
-and no foretelling
-```
+<samp>
+"If you don't know where you're from, you'll have a hard time saying where you're going."
+</samp>
